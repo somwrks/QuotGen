@@ -52,6 +52,15 @@
   "function": {
     "quotaLambda": {
       "build": true,
+      "dependsOn": [
+        {
+          "attributes": [
+            "GraphQLAPIIdOutput"
+          ],
+          "category": "api",
+          "resourceName": "quota"
+        }
+      ],
       "providerPlugin": "awscloudformation",
       "service": "Lambda"
     }

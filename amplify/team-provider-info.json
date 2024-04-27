@@ -18,7 +18,7 @@
       "function": {
         "quotaLambda": {
           "deploymentBucketName": "amplify-quota-dev-aabd2-deployment",
-          "s3Key": "amplify-builds/quotaLambda-364134754653766d4230-build.zip"
+          "s3Key": "amplify-builds/quotaLambda-75335a5537777066706b-build.zip"
         }
       },
       "api": {
