@@ -8,7 +8,7 @@ type GeneratedQuery<InputType, OutputType> = string & {
   __generatedQueryOutput: OutputType;
 };
 
-export const generateAQuote = /* GraphQL */ `query GenerateAQuote($input: AWSJSON!) {
+export const generateAQuote = /* GraphQL */ `query GenerateAQuote($input: AWSJSON) {
   generateAQuote(input: $input)
 }
 ` as GeneratedQuery<

@@ -233,7 +233,7 @@ export type DeleteQuoteAppDataMutation = {
 };
 
 export type GenerateAQuoteQueryVariables = {
-  input: string,
+  input?: string | null,
 };
 
 export type GenerateAQuoteQuery = {
