@@ -10,6 +10,20 @@
       "StackName": "amplify-quota-dev-aabd2",
       "StackId": "arn:aws:cloudformation:us-east-2:992382399703:stack/amplify-quota-dev-aabd2/0a4020e0-047e-11ef-b7aa-0629507b8db3",
       "AmplifyAppId": "d18bop53bk14ub"
+    },
+    "categories": {
+      "auth": {
+        "quotad22a1427": {}
+      },
+      "function": {
+        "quotaLambda": {
+          "deploymentBucketName": "amplify-quota-dev-aabd2-deployment",
+          "s3Key": "amplify-builds/quotaLambda-364134754653766d4230-build.zip"
+        }
+      },
+      "api": {
+        "quota": {}
+      }
     }
   }
 }
