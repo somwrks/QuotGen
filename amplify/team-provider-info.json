@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quota-dev-aabd2-authRole",
+      "UnauthRoleArn": "arn:aws:iam::992382399703:role/amplify-quota-dev-aabd2-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::992382399703:role/amplify-quota-dev-aabd2-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-quota-dev-aabd2-deployment",
+      "UnauthRoleName": "amplify-quota-dev-aabd2-unauthRole",
+      "StackName": "amplify-quota-dev-aabd2",
+      "StackId": "arn:aws:cloudformation:us-east-2:992382399703:stack/amplify-quota-dev-aabd2/0a4020e0-047e-11ef-b7aa-0629507b8db3",
+      "AmplifyAppId": "d18bop53bk14ub"
+    }
+  }
+}
