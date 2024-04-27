@@ -1,0 +1,4 @@
+{
+    "@resets" : ["next/babel"],
+    "plugins": [["style-components",{"ssr":true,"displayName":true}]]
+}
